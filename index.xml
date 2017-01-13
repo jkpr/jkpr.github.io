@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Icarus</title>
+    <link>/jkpr.github.io/index.xml</link>
+    <description>Recent content on Icarus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
+    <lastBuildDate>Fri, 13 Jan 2017 14:26:02 -0500</lastBuildDate>
+    <atom:link href="/jkpr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>First post</title>
+      <link>/jkpr.github.io/2017/01/13/first-post</link>
+      <pubDate>Fri, 13 Jan 2017 14:26:02 -0500</pubDate>
+      
+      <guid>/jkpr.github.io/2017/01/13/first-post</guid>
+      <description>&lt;p&gt;Welcome to my first post!&lt;/p&gt;
+
+&lt;p&gt;My goals with this blog are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Focus on computer science and mathematical concepts.&lt;/li&gt;
+&lt;li&gt;Learn about static-site generators&amp;mdash;like this one, Hugo&amp;mdash;and web hosting.&lt;/li&gt;
+&lt;li&gt;Become more proficient with tools like Linux and Vim.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
