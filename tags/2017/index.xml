@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2017 on Icarus</title>
-    <link>https://jkpr.github.io/tags/2017/index.xml</link>
+    <link>/tags/2017/index.xml</link>
     <description>Recent content in 2017 on Icarus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <atom:link href="https://jkpr.github.io/tags/2017/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/2017/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>First post</title>
-      <link>https://jkpr.github.io/2017/01/13/first-post</link>
+      <link>/2017/01/13/first-post</link>
       <pubDate>Fri, 13 Jan 2017 14:26:02 -0500</pubDate>
       
-      <guid>https://jkpr.github.io/2017/01/13/first-post</guid>
+      <guid>/2017/01/13/first-post</guid>
       <description>&lt;p&gt;Welcome to my first post!&lt;/p&gt;
 
 &lt;p&gt;My goals with this blog are:&lt;/p&gt;
