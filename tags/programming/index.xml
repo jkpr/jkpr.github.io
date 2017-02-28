@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>James K. Pringle</title>
-    <link>/index.xml</link>
-    <description>Recent content on James K. Pringle</description>
+    <title>Programming on James K. Pringle</title>
+    <link>/tags/programming/index.xml</link>
+    <description>Recent content in Programming on James K. Pringle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Feb 2017 10:52:57 -0500</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Beginning VIM</title>
@@ -51,34 +50,6 @@ never to use the arrow keys. Set a goal never to &amp;ldquo;press-and-hold&amp;r
 example, instead of holding down &lt;code&gt;j&lt;/code&gt; to scroll, try &lt;code&gt;}&lt;/code&gt; to jump paragraphs. As
 you seek out new and better ways to do things, your VIM vocabulary will
 increase and you will be more effective.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 19 Jan 2017 10:25:45 -0500</pubDate>
-      
-      <guid>/about/</guid>
-      <description>&lt;p&gt;Check out the blog!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>First post</title>
-      <link>/post/2017-01-13-init/</link>
-      <pubDate>Fri, 13 Jan 2017 14:26:02 -0500</pubDate>
-      
-      <guid>/post/2017-01-13-init/</guid>
-      <description>&lt;p&gt;Welcome to my first post!&lt;/p&gt;
-
-&lt;p&gt;My goals with this blog are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Focus on computer science and mathematical concepts.&lt;/li&gt;
-&lt;li&gt;Learn about static-site generators&amp;mdash;like this one, Hugo&amp;mdash;and web hosting.&lt;/li&gt;
-&lt;li&gt;Become more proficient with tools like Linux and Vim.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

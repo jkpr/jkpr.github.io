@@ -1,21 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Icarus</title>
+    <title>Posts on James K. Pringle</title>
     <link>/post/index.xml</link>
-    <description>Recent content in Posts on Icarus</description>
+    <description>Recent content in Posts on James K. Pringle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <lastBuildDate>Fri, 13 Jan 2017 14:26:02 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 28 Feb 2017 10:52:57 -0500</lastBuildDate>
     <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Beginning VIM</title>
+      <link>/post/2017-02-28-beginning-vim/</link>
+      <pubDate>Tue, 28 Feb 2017 10:52:57 -0500</pubDate>
+      
+      <guid>/post/2017-02-28-beginning-vim/</guid>
+      <description>&lt;p&gt;How does one begin to use VIM? This is a question that has been asked many
+times around the internets. The only answer I can give is to dive in and start
+using.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/vim.png&#34; alt=&#34;VIM logo&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Along the way I have found a few resources to be helpful. Definitely start
+with the &lt;code&gt;vimtutor&lt;/code&gt;. It takes 30 minutes to read and play around with. Once
+finished, you should feel comfortable writing in &lt;code&gt;INSERT&lt;/code&gt; mode and moving
+around in &lt;code&gt;NORMAL&lt;/code&gt; mode.&lt;/p&gt;
+
+&lt;p&gt;At the very bottom of &lt;code&gt;vimtutor&lt;/code&gt; is a section on further reading. I am
+currently working through &lt;code&gt;:help user-manual&lt;/code&gt;. Since the help files are
+read-only, I copy things from into a second window to try stuff out.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/vim-keyboard.jpg&#34; alt=&#34;Original keyboard VI creator used&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Finally, here are some other tips and tricks I have picked up along the way.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Change the escape key to the caps lock key.&lt;/strong&gt; It is obvious that the
+escape key is important in VIM. On older keyboards, the escape key was
+approximately where the tab key is. Ask yourself, when was the last time you
+used caps lock that wasn&amp;rsquo;t for Internet raging? If you are like me, the
+answer is nigh on never. Give it some love and bind the caps lock key to
+&lt;code&gt;&amp;lt;ESCAPE&amp;gt;&lt;/code&gt;. I use &lt;a href=&#34;https://pqrs.org/osx/karabiner/seil.html.en&#34;&gt;Seil&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Use &lt;code&gt;INSERT&lt;/code&gt; mode as little as possible&lt;/strong&gt;. With VIM, you need to be aware
+of what mode you are in. &lt;code&gt;NORMAL&lt;/code&gt; mode is called &amp;ldquo;normal&amp;rdquo; because it is meant
+to be the &amp;ldquo;normal&amp;rdquo; mode. You should be there normally. Be a ninja: make your
+edits and get out of there.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Try to minimize keystrokes.&lt;/strong&gt; As you are learning VIM, be aware that there
+is probably a better way to do things than what you are doing now. Set a goal
+never to use the arrow keys. Set a goal never to &amp;ldquo;press-and-hold&amp;rdquo; a key. For
+example, instead of holding down &lt;code&gt;j&lt;/code&gt; to scroll, try &lt;code&gt;}&lt;/code&gt; to jump paragraphs. As
+you seek out new and better ways to do things, your VIM vocabulary will
+increase and you will be more effective.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>First post</title>
-      <link>/2017/01/13/first-post</link>
+      <link>/post/2017-01-13-init/</link>
       <pubDate>Fri, 13 Jan 2017 14:26:02 -0500</pubDate>
       
-      <guid>/2017/01/13/first-post</guid>
+      <guid>/post/2017-01-13-init/</guid>
       <description>&lt;p&gt;Welcome to my first post!&lt;/p&gt;
 
 &lt;p&gt;My goals with this blog are:&lt;/p&gt;
