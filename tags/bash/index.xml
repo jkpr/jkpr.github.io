@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bash on James K. Pringle</title>
+    <link>/tags/bash/</link>
+    <description>Recent content in Bash on James K. Pringle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Nov 2017 09:26:02 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Start using Bash</title>
+      <link>/post/beginning-bash/</link>
+      <pubDate>Tue, 28 Nov 2017 09:26:02 -0500</pubDate>
+      
+      <guid>/post/beginning-bash/</guid>
+      <description>One of the reasons I switched to Mac when Windows 8 came out was Mac&amp;rsquo;s UNIX-y background. I liked being able to open a terminal and do all the things I had been learning about in my computer science classes. Mac&amp;rsquo;s default shell is Bash, or the Bourne Again SHell. Sure, I could cd around, ls directories, and cp or mv things. But, I knew I was not even close to tapping the power of the shell.</description>
+    </item>
+    
+  </channel>
+</rss>

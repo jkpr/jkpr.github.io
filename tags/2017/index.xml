@@ -2,11 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2017 on James K. Pringle</title>
-    <link>/tags/2017/index.xml</link>
+    <link>/tags/2017/</link>
     <description>Recent content in 2017 on James K. Pringle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tags/2017/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Nov 2017 09:26:02 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/2017/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Start using Bash</title>
+      <link>/post/beginning-bash/</link>
+      <pubDate>Tue, 28 Nov 2017 09:26:02 -0500</pubDate>
+      
+      <guid>/post/beginning-bash/</guid>
+      <description>One of the reasons I switched to Mac when Windows 8 came out was Mac&amp;rsquo;s UNIX-y background. I liked being able to open a terminal and do all the things I had been learning about in my computer science classes. Mac&amp;rsquo;s default shell is Bash, or the Bourne Again SHell. Sure, I could cd around, ls directories, and cp or mv things. But, I knew I was not even close to tapping the power of the shell.</description>
+    </item>
     
     <item>
       <title>Beginning VIM</title>
@@ -14,44 +26,8 @@
       <pubDate>Tue, 28 Feb 2017 10:52:57 -0500</pubDate>
       
       <guid>/post/2017-02-28-beginning-vim/</guid>
-      <description>&lt;p&gt;How does one begin to use VIM? This is a question that has been asked many
-times around the internets. The only answer I can give is to dive in and start
-using.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/vim.png&#34; alt=&#34;VIM logo&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Along the way I have found a few resources to be helpful. Definitely start
-with the &lt;code&gt;vimtutor&lt;/code&gt;. It takes 30 minutes to read and play around with. Once
-finished, you should feel comfortable writing in &lt;code&gt;INSERT&lt;/code&gt; mode and moving
-around in &lt;code&gt;NORMAL&lt;/code&gt; mode.&lt;/p&gt;
-
-&lt;p&gt;At the very bottom of &lt;code&gt;vimtutor&lt;/code&gt; is a section on further reading. I am
-currently working through &lt;code&gt;:help user-manual&lt;/code&gt;. Since the help files are
-read-only, I copy things from into a second window to try stuff out.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/vim-keyboard.jpg&#34; alt=&#34;Original keyboard VI creator used&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Finally, here are some other tips and tricks I have picked up along the way.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Change the escape key to the caps lock key.&lt;/strong&gt; It is obvious that the
-escape key is important in VIM. On older keyboards, the escape key was
-approximately where the tab key is. Ask yourself, when was the last time you
-used caps lock that wasn&amp;rsquo;t for Internet raging? If you are like me, the
-answer is nigh on never. Give it some love and bind the caps lock key to
-&lt;code&gt;&amp;lt;ESCAPE&amp;gt;&lt;/code&gt;. I use &lt;a href=&#34;https://pqrs.org/osx/karabiner/seil.html.en&#34;&gt;Seil&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Use &lt;code&gt;INSERT&lt;/code&gt; mode as little as possible&lt;/strong&gt;. With VIM, you need to be aware
-of what mode you are in. &lt;code&gt;NORMAL&lt;/code&gt; mode is called &amp;ldquo;normal&amp;rdquo; because it is meant
-to be the &amp;ldquo;normal&amp;rdquo; mode. You should be there normally. Be a ninja: make your
-edits and get out of there.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Try to minimize keystrokes.&lt;/strong&gt; As you are learning VIM, be aware that there
-is probably a better way to do things than what you are doing now. Set a goal
-never to use the arrow keys. Set a goal never to &amp;ldquo;press-and-hold&amp;rdquo; a key. For
-example, instead of holding down &lt;code&gt;j&lt;/code&gt; to scroll, try &lt;code&gt;}&lt;/code&gt; to jump paragraphs. As
-you seek out new and better ways to do things, your VIM vocabulary will
-increase and you will be more effective.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>How does one begin to use VIM? This is a question that has been asked many times around the internets. The only answer I can give is to dive in and start using.
+Along the way I have found a few resources to be helpful. Definitely start with the vimtutor. It takes 30 minutes to read and play around with. Once finished, you should feel comfortable writing in INSERT mode and moving around in NORMAL mode.</description>
     </item>
     
     <item>
@@ -60,16 +36,9 @@ increase and you will be more effective.&lt;/li&gt;
       <pubDate>Fri, 13 Jan 2017 14:26:02 -0500</pubDate>
       
       <guid>/post/2017-01-13-init/</guid>
-      <description>&lt;p&gt;Welcome to my first post!&lt;/p&gt;
-
-&lt;p&gt;My goals with this blog are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Focus on computer science and mathematical concepts.&lt;/li&gt;
-&lt;li&gt;Learn about static-site generators&amp;mdash;like this one, Hugo&amp;mdash;and web hosting.&lt;/li&gt;
-&lt;li&gt;Become more proficient with tools like Linux and Vim.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Welcome to my first post!
+My goals with this blog are:
+ Focus on computer science and mathematical concepts. Learn about static-site generators&amp;mdash;like this one, Hugo&amp;mdash;and web hosting. Become more proficient with tools like Linux and Vim.  </description>
     </item>
     
   </channel>
